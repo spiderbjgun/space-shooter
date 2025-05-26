@@ -64,13 +64,13 @@ Pilot your spaceship through the galaxy, dodge enemy fire, and shoot down alien-
 ## 📦 Download Releases
 
 - 💻 **Windows (.7z):**  
-  [Download for Windows {{VERSION}}](https://github.com/omnitechphilippines/space-shooter/releases/download/{{ENCODED_VERSION}}/windows-release-{{ENCODED_VERSION}}.7z)
+  [Download for Windows v1.0.0+1](https://github.com/omnitechphilippines/space-shooter/releases/download/v1.0.0%2B1/windows-release-v1.0.0%2B1.7z)
 
 - 📱 **Android (.apk):**  
-  [Download for Android {{VERSION}}](https://github.com/omnitechphilippines/space-shooter/releases/download/{{ENCODED_VERSION}}/app-release-{{ENCODED_VERSION}}.apk)
+  [Download for Android v1.0.0+1](https://github.com/omnitechphilippines/space-shooter/releases/download/v1.0.0%2B1/app-release-v1.0.0%2B1.apk)
 
 - 🌐 **Web build (.7z):**  
-  [Download Web Build {{VERSION}}](https://github.com/omnitechphilippines/space-shooter/releases/download/{{ENCODED_VERSION}}/web-release-{{ENCODED_VERSION}}.7z)
+  [Download Web Build v1.0.0+1](https://github.com/omnitechphilippines/space-shooter/releases/download/v1.0.0%2B1/web-release-v1.0.0%2B1.7z)
 
 > You can also find all versions in the [Releases Page](https://github.com/omnitechphilippines/space-shooter/releases)
 

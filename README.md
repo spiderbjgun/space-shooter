@@ -49,8 +49,9 @@ Pilot your spaceship through the galaxy, dodge enemy fire, and shoot down alien-
 
 ### 📱 Android
 
-![Android Gameplay](screenshots/android/android-gameplay-portrait.png)
-![Android Gameplay](screenshots/android/android-gameplay-landscape.png)
+| Portrait                                                       | Landscape                                                        |
+|----------------------------------------------------------------|------------------------------------------------------------------|
+| ![Portrait](screenshots/android/android-gameplay-portrait.png) | ![Landscape](screenshots/android/android-gameplay-landscape.png) |
 ---
 
 ## 🌐 Live Demo
